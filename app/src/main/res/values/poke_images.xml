@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="poke_imgs">
+        <item>@drawable/squirtle</item>
+        <item>@drawable/charmander</item>
+        <item>@drawable/pikachu</item>
+        <item>@drawable/bulbasaur</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="poke_sounds">
+        <item>@raw/squir</item>
+        <item>@raw/charm</item>
+        <item>@raw/pika</item>
+        <item>@raw/bulba</item>
+    </string-array>
+</resources>

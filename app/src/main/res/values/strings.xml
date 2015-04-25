@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pokedex</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="list_view">listView</string>
+    <string name="list_view_holder">listViewHolder</string>
+    <string name="fake_view">fakeView</string>
+    <string name="poke_frag_id">pokeFragment</string>
+
+    <string-array name="name_dict">
+        <item>Squirtle</item>
+        <item>Charmander</item>
+        <item>Pikachu</item>
+        <item>Bulbasaur</item>
+    </string-array>
+
+    <string name="title_activity_poke">PokeActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
